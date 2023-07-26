@@ -1,0 +1,9 @@
+Package: uaskomstat
+Type: Package
+Title: Package UAS KOMSTAT
+Version: 1.0
+Author: DWITRA GUSTI ARLISCKI(21611121),SAKA KENCANA NUGROHO(21611117),JHODI FACHRIANSYAH(21611105),FEBY FEBRIYANA HERMAWAN(21611118),DIKA WIRA TAMA(21611181)
+Maintainer: Dwitra <21611121@students.uii.ac.id>
+Description: Package yang berfungsi untuk menghitung LUAS Permukaan 
+dan Volume dari Hemisphere(BOLA SETENGAH) dan menghitung Volume dari SPHERICAL CAP(Bola Besar Dikurangi Bola Kecil)
+License: Gpl-2|Gpl3

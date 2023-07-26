@@ -16,6 +16,6 @@ The perimeter of Hemisphere
 Compute the perimeter of Hemisphere shape
 }
 \examples{
-perimeter1 <- phemisphere(4);
-perimeter2 <- phemisphere(5);
+perimeter1 <- phemisphere(4)
+perimeter2 <- phemisphere(5)
 }

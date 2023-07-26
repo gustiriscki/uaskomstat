@@ -18,6 +18,6 @@ The volume of Spherical Cap
 Compute the volume of Spherical Cap
 }
 \examples{
-volume1 <- vspherical(5,3);
-volume2 <- vspherical(4,3);
+volume1 <- vspherical(5,3)
+volume2 <- vspherical(4,3)
 }

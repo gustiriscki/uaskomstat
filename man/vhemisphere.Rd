@@ -16,6 +16,6 @@ The volume of pyramid
 Compute the volume of Hemisphere shape
 }
 \examples{
-volume1 <- vhemisphere(5);
-volume2 <- vhemisphere(3);
+volume1 <- vhemisphere(5)
+volume2 <- vhemisphere(3)
 }
